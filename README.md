@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-calculator-app/blob/090ba736308888779f73befef33d5e7c45bcbe82/calculator.gif" alt="" />
 
 # Getting Started with Create React App
 
